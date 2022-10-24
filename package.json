@@ -1,0 +1,27 @@
+{
+  "name": "ryanhanley.net",
+  "version": "1.0.0",
+  "description": "Profile site",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camelCaseGuy/ryanhanley.net.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camelCaseGuy/ryanhanley.net/issues"
+  },
+  "homepage": "https://github.com/camelCaseGuy/ryanhanley.net#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}
